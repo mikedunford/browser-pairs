@@ -173,13 +173,13 @@ body {
   font-size: 2em;
   padding: 10px;
   width: 150px;
-  border: 8px solid #DA4930;
+  border: 8px solid #C76B2D;
   z-index: 99;
 }
 
 /* :hover styles are applied when the user's mouse hovers over the element */
 .button:hover {
-  background-color: #F26522 !important;
+  background-color: #FF8A3A !important;
   color: #fff;
   cursor: pointer;
 }
